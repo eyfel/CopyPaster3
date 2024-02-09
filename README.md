@@ -33,7 +33,7 @@ The Screen Text Incrementer is also available as a standalone executable program
 
 2. **For Python Script:**
    - Ensure Python 3.x is installed on your system.
-   - Install the necessary Python libraries using pip: `pip install pyperclip re keyboard`
+   - Install the necessary Python libraries using pip: `pip install pyperclip keyboard`
 
 **Usage**
 
