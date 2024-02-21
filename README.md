@@ -1,4 +1,4 @@
-# CopyPaster3
+# Number-Booster
 
 Screen Text Incrementer
 ---
